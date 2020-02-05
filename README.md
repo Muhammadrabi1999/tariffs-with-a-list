@@ -1,1 +1,1 @@
-Tariffs With A List
+Tariffs List
