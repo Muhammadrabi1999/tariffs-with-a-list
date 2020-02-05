@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tariffs-with-a-list/static/css/main.948c31eb.chunk.css",
+    "main.js": "/tariffs-with-a-list/static/js/main.bf864f05.chunk.js",
+    "main.js.map": "/tariffs-with-a-list/static/js/main.bf864f05.chunk.js.map",
+    "runtime-main.js": "/tariffs-with-a-list/static/js/runtime-main.a05bbbd4.js",
+    "runtime-main.js.map": "/tariffs-with-a-list/static/js/runtime-main.a05bbbd4.js.map",
+    "static/js/2.34a18d9e.chunk.js": "/tariffs-with-a-list/static/js/2.34a18d9e.chunk.js",
+    "static/js/2.34a18d9e.chunk.js.map": "/tariffs-with-a-list/static/js/2.34a18d9e.chunk.js.map",
+    "index.html": "/tariffs-with-a-list/index.html",
+    "precache-manifest.9a042ba7e66c7945ce75a4b0688676d6.js": "/tariffs-with-a-list/precache-manifest.9a042ba7e66c7945ce75a4b0688676d6.js",
+    "service-worker.js": "/tariffs-with-a-list/service-worker.js",
+    "static/css/main.948c31eb.chunk.css.map": "/tariffs-with-a-list/static/css/main.948c31eb.chunk.css.map",
+    "static/js/2.34a18d9e.chunk.js.LICENSE.txt": "/tariffs-with-a-list/static/js/2.34a18d9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a05bbbd4.js",
+    "static/js/2.34a18d9e.chunk.js",
+    "static/css/main.948c31eb.chunk.css",
+    "static/js/main.bf864f05.chunk.js"
+  ]
+}
