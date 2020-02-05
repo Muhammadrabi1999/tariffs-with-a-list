@@ -15,7 +15,7 @@ export default function Tariff2({post}) {
             </div>             
 
             <div className="hit">
-                <img src={post.imgUrl} className="imgUrl"/>
+                <img src={post.imgUrl} alt="" className="imgUrl"/>
             </div>
 
 
@@ -25,7 +25,7 @@ export default function Tariff2({post}) {
                     <div>{post.internet !== 0 &&<span className="text">{post.text}</span>}</div>
                     
                     <div><span>
-                        { post.text !== '' && post.socialIkons.map(o => <img src={o} className="socialIkons" />)} 
+                        { post.text !== '' && post.socialIkons.map(o => <img src={o} alt="" className="socialIkons" />)} 
                    
                     </span></div>                          
             </div>
