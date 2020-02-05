@@ -6,6 +6,8 @@ import Tariff1 from './components/Tariff/Tariff1';
 function App() {
   return (
     <Tariff1 />
+
+    
   );
 }
 
